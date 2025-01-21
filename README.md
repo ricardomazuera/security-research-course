@@ -4,5 +4,5 @@ This repository contains the knowledge base for the Security Research Course by 
 In this course we going to do six different projects, each project will be a different challenge and will require different skills and knowledge.
 
 ## Projects
-1. [Project 1: Password Store Audit](./3-passwordstore-audit/README.md)
+1. [Project 1: Password Store Audit](./passwordstore-audit/README.md)
 
